@@ -1,2 +1,2 @@
 # unsupervised-trading-strat
-Unsupervised trading strategy used on the s&amp;p500.
+Algorithmic trading strategy using unsupervised learning on the s&p500
