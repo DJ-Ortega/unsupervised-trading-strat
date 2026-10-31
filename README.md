@@ -1,2 +1,2 @@
 # unsupervised-trading-strat
-Algorithmic trading strategy using unsupervised learning on the s&p500
+Algorithmic trading strategy using unsupervised learning (K-means clustering) on the S&P 500 index.
